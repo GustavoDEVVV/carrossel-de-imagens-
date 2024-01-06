@@ -1,0 +1,36 @@
+.swiper-container {
+    width: 60%; /* Defina a largura desejada para o carrossel */
+    margin: auto;
+  }
+
+  .swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    display: flex;
+    justify-content: center;
+    height: 10px; /* Ajuste a altura conforme necessário */
+  }
+
+  body{
+
+    background-color: black;
+  }
+
+
+.swiper-button-prev{
+    margin-left: 430px;
+    width: 10px;
+}
+
+img{
+
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+    margin-top: 200px;
+}
+
+.swiper-button-next{
+    margin-right: 430px;
+    width: 10px;
+}
