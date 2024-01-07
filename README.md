@@ -1,1 +1,1 @@
-Esse projeto consta com um carrossel de imagem, é bastante utíl e bonito para colocar em seus sites 
+Esse projeto conta com um carrossel de imagens, é bastante útil e bonito para colocar em seus sites.
